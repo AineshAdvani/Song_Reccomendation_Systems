@@ -28,6 +28,12 @@ Attributes we require:
 - Track name (Title) 
 - Set of Word - Shortened Lyrics of track
 
+## Setup
+- clone the repository and used the built uploaded training dataset to train the model using Song_Recommendation.ipynb
+- Use your own dataset of that contains lyrics information and run Song_Recommendation.ipynb to train your model on it.
+
+
+
 
 
 
